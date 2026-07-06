@@ -62,7 +62,7 @@ The complete Lean Inception process was conducted using the official **Miro** te
 The board is available at:
 
 ```
-https://miro.com/app/board/uXjVH_Pxt_w=/?share_link_id=200543973985
+canvas-url.txt
 ```
 
 ---
@@ -134,16 +134,9 @@ Included wireframes:
 # 🎥 Presentation Video
 
 The presentation video covers:
-
-- Business Context
-- Lean Inception
-- MVP Canvas
-- Product Backlog
-- Sprint Backlog
-- Wireframes
-
-The video is available in the root directory of this repository.
-
+```
+video-url.txt
+```
 ---
 
 # 📄 License
